@@ -1,0 +1,31 @@
+head body p a h1 h2 html div {
+    padding: 0;
+    margin: 0;
+}
+a {
+    color: #fff;
+    padding: 10px;
+}
+#nav {
+    display: flex;
+    justify-content: flex-end;
+    border-bottom: 1px solid #fff;
+}
+h1 {
+    display: flex;
+    justify-content: center;
+    color: #fff;
+}
+p {
+    display: flex;
+    justify-content: center;
+    color: #fff;
+}
+h2 {
+    display: flex;
+    justify-content: center;
+    color: #fff;
+}
+body {
+    background-image: url(green-vegetables-on-brown-wooden-chopping-board-3952047.jpg);
+}
